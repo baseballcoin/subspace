@@ -12,7 +12,7 @@ Currently, it supports producing:
 - Invalid bundle
 - Fraudulent ER
 
-When the operator submit malicious content to the consensus chain, the honest operator in the network will detect and submit fraud proof that target these content, and cause the malicious operator being slashed and baned from submitting bundle.
+When the operator submits malicious content to the consensus chain, the honest operator in the network will detect and submit fraud proof that target these content, and cause the malicious operator being slashed and baned from submitting bundle.
 
 The malicious operator node will detect the slashing and register a new operator as the malicious operator, moreover, it will enforce the epoch transition to accelerate the onboard of the new malicious operator, and contiune producing malicious content.
 
