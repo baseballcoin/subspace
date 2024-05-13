@@ -8,7 +8,7 @@ The malicious operator node act as a regular [domain operator](../../domains/REA
 
 Most parts of the malicious operator act exactly the same as the regular domain operator except its bundle producer. When it produce a bundle, the bundle will be tampered with malicious content with probability before submitting to the consensus chain.
 
-Currently, it supports produce:
+Currently, it supports producing:
 - Invalid bundle
 - Fraudulent ER
 
