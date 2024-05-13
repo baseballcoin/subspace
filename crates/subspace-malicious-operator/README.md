@@ -14,7 +14,7 @@ Currently, it supports producing:
 
 When the operator submits malicious content to the consensus chain, the honest operators in the network will detect and submit fraud proofs that target this content, and cause the malicious operator to be slashed and banned from submitting bundles.
 
-The malicious operator node will detect the slashing and register a new operator as the malicious operator, moreover, it will enforce the epoch transition to accelerate the onboard of the new malicious operator, and contiune producing malicious content.
+The malicious operator node will detect the slashing and register a new operator as the malicious operator, moreover, it will enforce the epoch transition to accelerate the onboarding of the new malicious operator, and continue producing malicious content.
 
 ### Build from source
 
